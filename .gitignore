@@ -182,3 +182,5 @@ bower_components
 psd
 thumb
 sketch
+
+/resources/*
